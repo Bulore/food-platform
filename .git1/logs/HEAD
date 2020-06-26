@@ -1,0 +1,24 @@
+0000000000000000000000000000000000000000 e1c7a52db34d0b9ed07621824b35d3b5b7318fa9 viktor <victor.kukhta@footshop.cz> 1575752397 +0200	clone: from https://gitlab.com/food-startup/backend.git
+e1c7a52db34d0b9ed07621824b35d3b5b7318fa9 e1c7a52db34d0b9ed07621824b35d3b5b7318fa9 viktor <victor.kukhta@footshop.cz> 1575774664 +0200	checkout: moving from master to feature/jwt-auth
+e1c7a52db34d0b9ed07621824b35d3b5b7318fa9 f2647d6ca7b4b65504168379dd02038c48fc8b40 viktor <victor.kukhta@footshop.cz> 1575774699 +0200	commit: Jwt Auth
+f2647d6ca7b4b65504168379dd02038c48fc8b40 f2647d6ca7b4b65504168379dd02038c48fc8b40 viktor <victor.kukhta@footshop.cz> 1575818783 +0200	reset: moving to HEAD
+f2647d6ca7b4b65504168379dd02038c48fc8b40 e1c7a52db34d0b9ed07621824b35d3b5b7318fa9 viktor <victor.kukhta@footshop.cz> 1575818788 +0200	checkout: moving from feature/jwt-auth to master
+e1c7a52db34d0b9ed07621824b35d3b5b7318fa9 e1c7a52db34d0b9ed07621824b35d3b5b7318fa9 viktor <victor.kukhta@footshop.cz> 1575818992 +0200	reset: moving to HEAD
+e1c7a52db34d0b9ed07621824b35d3b5b7318fa9 ae9a76b0a9c1271dd73d8e2d147261f79330e573 viktor <victor.kukhta@footshop.cz> 1575819251 +0200	commit: fix
+ae9a76b0a9c1271dd73d8e2d147261f79330e573 0f19fa5493226213174b39cadbbb9acc727f03a4 viktor <victor.kukhta@footshop.cz> 1575819298 +0200	commit: fix
+0f19fa5493226213174b39cadbbb9acc727f03a4 0f19fa5493226213174b39cadbbb9acc727f03a4 viktor <victor.kukhta@footshop.cz> 1575819355 +0200	reset: moving to HEAD
+0f19fa5493226213174b39cadbbb9acc727f03a4 81f6e09e0664e1b88646d2f4a22e0f51e4532c0d viktor <victor.kukhta@footshop.cz> 1575819367 +0200	pull: Merge made by the 'recursive' strategy.
+81f6e09e0664e1b88646d2f4a22e0f51e4532c0d dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 viktor <victor.kukhta@footshop.cz> 1575832552 +0200	pull: Fast-forward
+dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 viktor <victor.kukhta@footshop.cz> 1575834647 +0200	checkout: moving from master to feature/user-api
+dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 5d0401b65968c6dfdcbd1aa087ee011e6f46601d viktor <victor.kukhta@footshop.cz> 1575834681 +0200	commit: User Api
+5d0401b65968c6dfdcbd1aa087ee011e6f46601d f2647d6ca7b4b65504168379dd02038c48fc8b40 viktor <victor.kukhta@footshop.cz> 1579305349 +0200	checkout: moving from feature/user-api to feature/jwt-auth
+f2647d6ca7b4b65504168379dd02038c48fc8b40 5d0401b65968c6dfdcbd1aa087ee011e6f46601d viktor <victor.kukhta@footshop.cz> 1579305454 +0200	checkout: moving from feature/jwt-auth to feature/user-api
+5d0401b65968c6dfdcbd1aa087ee011e6f46601d dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 viktor <victor.kukhta@footshop.cz> 1579305496 +0200	checkout: moving from feature/user-api to master
+dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 5d0401b65968c6dfdcbd1aa087ee011e6f46601d viktor <victor.kukhta@footshop.cz> 1579305553 +0200	checkout: moving from master to feature/user-api
+5d0401b65968c6dfdcbd1aa087ee011e6f46601d f1134d63040cd7c77138f450ed9a0b86611e1300 viktor <victor.kukhta@footshop.cz> 1579306857 +0200	commit: DTO for auth\register
+f1134d63040cd7c77138f450ed9a0b86611e1300 dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 viktor <victor.kukhta@footshop.cz> 1579307096 +0200	checkout: moving from feature/user-api to master
+dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 viktor <victor.kukhta@footshop.cz> 1579307119 +0200	checkout: moving from master to feature/refresh-token
+dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 0d602baf222a803728445a05a371efc78d6f239c viktor <victor.kukhta@footshop.cz> 1579309088 +0200	commit: refresh tokens
+0d602baf222a803728445a05a371efc78d6f239c dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 viktor <victor.kukhta@footshop.cz> 1579807738 +0200	checkout: moving from feature/refresh-token to master
+dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 f1134d63040cd7c77138f450ed9a0b86611e1300 viktor <victor.kukhta@footshop.cz> 1584471005 +0200	checkout: moving from master to feature/user-api
+f1134d63040cd7c77138f450ed9a0b86611e1300 dece1cdf3ea34f32a4da77fb8a6f10dff78e9ad1 viktor <victor.kukhta@footshop.cz> 1590148040 +0300	checkout: moving from feature/user-api to master
